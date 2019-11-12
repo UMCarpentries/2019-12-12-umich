@@ -4,8 +4,8 @@ venue: "University of Michigan"        # brief name of host site without address
 address: "2739 Med Sci II (Furstenberg Center), 1137 Catherine Street, Ann Arbor, MI"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "42.283312"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-83.734801"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "42.283160"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-83.733660"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Dec 12-13, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-12-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -31,7 +31,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 <p id="registration" align="center">
   <strong>
     <font size="36">
-    <a href="https://ttc.iss.lsa.umich.edu/ttc/sessions/software-carpentry-workshop-shell-r-git-4/" target="_blank">Click Here to Register</a>
+    <a href="https://ttc.iss.lsa.umich.edu/ttc/sessions/" target="_blank">Click Here to Register</a>
     </font>
   </strong>
 </p>
